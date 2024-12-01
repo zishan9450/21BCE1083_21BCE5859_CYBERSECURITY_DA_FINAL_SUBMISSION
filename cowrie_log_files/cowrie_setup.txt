@@ -1,0 +1,9 @@
+docker volume create cowrie_logs
+
+docker run -d -p 2222:2222/tcp --name cowrie -v cowrie_logs:/cowrie/log/ cowrie/cowrie
+
+------------------------------------------------------------------------------------------         docker run -d -p 2222:2222/tcp --name cowrie cowrie/cowrie
+
+hydra -l root -P /home/shankey/Desktop/wordlists/rockyou.txt ssh://localhost:2222
+
+docker logs cowrie > /home/shankey/Desktop/cowrie_log_files/logfile.log
