@@ -150,5 +150,15 @@ Contributions:
 Simulating SSH activity.
 Enhancing the Python script with functions for component-specific analysis, time-based analysis, and unique IP extraction.
 Documentation and reporting.
-License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software, but please give credit to the original authors.
+
+ScreenShots:
+![img9](https://github.com/user-attachments/assets/8464c722-d97e-4f51-9301-590962b7ffe4)
+![img4](https://github.com/user-attachments/assets/e8e9dce5-b320-4e70-9e49-3b07e2183435)
+![img7](https://github.com/user-attachments/assets/5e29a431-0dda-4f56-9d0d-ea49f9742986)
+![img8](https://github.com/user-attachments/assets/615a6317-f535-4616-b044-9a15feedd4f1)
+![img9](https://github.com/user-attachments/assets/1acc72c2-766f-4d1f-addc-3cfb68d4c09f)
+
+
+
+
+
